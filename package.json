@@ -1,0 +1,25 @@
+{
+  "name": "js-encoding-performance",
+  "version": "1.0.0",
+  "description": "Javascript utf8 to binary encoding performance test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saifeiLee/js-encoding-performance.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saifeiLee/js-encoding-performance/issues"
+  },
+  "homepage": "https://github.com/saifeiLee/js-encoding-performance#readme",
+  "dependencies": {
+    "arraybuffer-to-string": "^1.0.2",
+    "js-base64": "^2.5.2",
+    "string-to-arraybuffer": "^1.0.2"
+  }
+}
